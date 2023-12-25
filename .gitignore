@@ -2,3 +2,4 @@ data/
 *.csv
 *.zip
 .vector_cache/
+checkpoint*
